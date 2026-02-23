@@ -522,7 +522,8 @@ This section was written in conjunction with ChatGPT.
 </td></tr></table>
 
 Highly recommend taking a short class of native C++. Here is a video link to ~1h long [video tutorial from Mosh](https://www.youtube.com/watch?v=ZzaPdXTrSb8).<br />
-But if you'd like to dive deeper into C++ and learn about other stuff (such as memory and pointers which are needed for Unreal Engine), check out this ~6h [video tutorial from BroCode](https://youtu.be/-TkoO8Z07hI).
+But to properly work with Unreal Engine C++, you'll need to understand memory and pointers - the ~6h [video tutorial from BroCode](https://youtu.be/-TkoO8Z07hI) covers all of that and is the one I recommend going through.<br />
+[TheCherno also has a great series on C++](https://youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&si=sR90TuubsPcGYuU9) if you want to go even deeper, but that's not necessary at this stage.
 
 You can also watch a playlist from [GGameDev about getting started with Unreal Engine C++](https://youtube.com/playlist?list=PLaaDnVlfJwc4Lncf4XTYaTRG_osOk-T0N).
 
