@@ -556,6 +556,8 @@ Popular IDEs used in Unreal Engine and C++ development include:
 
 * [Rider](https://www.jetbrains.com/rider/): Rider is a popular IDE developed by JetBrains, designed for game development, and it offers solid integration with Unreal Engine projects. `Cost`.
 
+However, Visual Studio is highly recommended for Unreal Engine if you don't want to set up your IDE to support UE, either because you're lazy or because you're a beginner who doesn't want to risk making any mistakes. I highly recommend you to stick with Visual Studio for now.
+
 ### ⛏️ Tools to help your journey
 
 <table><tr><td>
